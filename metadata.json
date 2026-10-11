@@ -1,0 +1,6 @@
+{
+  "name": "MediSmart AI",
+  "description": "Smarter Appointments. Shorter Waits. Better Care. Healthcare platform for Visakhapatnam (Vizag) with doctor discovery, appointment booking, digital cards, real-time queue tracking, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
